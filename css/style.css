@@ -1,0 +1,14 @@
+ divBg{
+        background: #fcfcfa;
+    }
+
+    canvas {
+        position: absolute;
+        top: 10%;
+        left: 20%;
+    }
+
+    .blur {
+        -webkit-filter: blur(6px);
+        filter: blur(6px);
+    }
